@@ -24,7 +24,7 @@
             "last_commit": "2024-01-06T02:41:20Z",
             "owner": "chenfei-wu",
             "repo": "TaskMatrix",
-            "stars": 34020
+            "stars": 34013
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-07-25T06:15:21Z",
             "owner": "microsoft",
             "repo": "LMOps",
-            "stars": 4461
+            "stars": 4460
           }
         }
       ],
@@ -65,10 +65,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T18:22:58Z",
+            "last_commit": "2026-08-14T18:21:20Z",
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
-            "stars": 186589
+            "stars": 186620
           }
         },
         {
@@ -82,7 +82,7 @@
             "last_commit": "2025-06-27T08:35:54Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-R1",
-            "stars": 91979
+            "stars": 92006
           }
         },
         {
@@ -93,10 +93,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T15:54:54Z",
+            "last_commit": "2026-08-14T13:54:53Z",
             "owner": "mem0ai",
             "repo": "mem0",
-            "stars": 63204
+            "stars": 63257
           }
         },
         {
@@ -107,10 +107,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T18:07:47Z",
+            "last_commit": "2026-08-14T16:10:23Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51622
+            "stars": 51641
           }
         },
         {
@@ -124,7 +124,7 @@
             "last_commit": "2024-07-17T09:43:05Z",
             "owner": "tatsu-lab",
             "repo": "stanford_alpaca",
-            "stars": 30246
+            "stars": 30244
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-04-14T15:29:57Z",
             "owner": "openai",
             "repo": "evals",
-            "stars": 19161
+            "stars": 19171
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2024-07-29T13:37:49Z",
             "owner": "tloen",
             "repo": "alpaca-lora",
-            "stars": 18909
+            "stars": 18908
           }
         },
         {
@@ -166,7 +166,7 @@
             "last_commit": "2024-06-18T20:29:46Z",
             "owner": "cocktailpeanut",
             "repo": "dalai",
-            "stars": 12900
+            "stars": 12898
           }
         },
         {
@@ -194,7 +194,7 @@
             "last_commit": "2026-08-10T23:23:27Z",
             "owner": "google-deepmind",
             "repo": "gemma",
-            "stars": 5653
+            "stars": 5655
           }
         },
         {
@@ -244,7 +244,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T18:26:43.019Z",
+    "last_updated": "2026-08-14T18:23:41.323Z",
     "original_repository": "KennethanCeyer/awesome-llm",
     "original_repository_sha": "0b8d0e33aadfd7c2e0e4d81b07871fe0aca7c289",
     "enhanced_repository": "enhansome/enhansome-llm",
