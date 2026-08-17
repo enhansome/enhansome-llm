@@ -24,7 +24,7 @@
             "last_commit": "2024-01-06T02:41:20Z",
             "owner": "chenfei-wu",
             "repo": "TaskMatrix",
-            "stars": 34014
+            "stars": 34012
           }
         },
         {
@@ -38,7 +38,7 @@
             "last_commit": "2026-07-25T06:15:21Z",
             "owner": "microsoft",
             "repo": "LMOps",
-            "stars": 4462
+            "stars": 4464
           }
         }
       ],
@@ -65,10 +65,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T14:48:07Z",
+            "last_commit": "2026-08-17T14:56:33Z",
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
-            "stars": 186639
+            "stars": 186645
           }
         },
         {
@@ -82,7 +82,7 @@
             "last_commit": "2025-06-27T08:35:54Z",
             "owner": "deepseek-ai",
             "repo": "DeepSeek-R1",
-            "stars": 92027
+            "stars": 92036
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-15T10:43:29Z",
             "owner": "mem0ai",
             "repo": "mem0",
-            "stars": 63376
+            "stars": 63450
           }
         },
         {
@@ -107,10 +107,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T16:10:23Z",
+            "last_commit": "2026-08-17T04:43:20Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51680
+            "stars": 51703
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2026-04-14T15:29:57Z",
             "owner": "openai",
             "repo": "evals",
-            "stars": 19181
+            "stars": 19187
           }
         },
         {
@@ -194,7 +194,7 @@
             "last_commit": "2026-08-10T23:23:27Z",
             "owner": "google-deepmind",
             "repo": "gemma",
-            "stars": 5660
+            "stars": 5663
           }
         },
         {
@@ -222,7 +222,7 @@
             "last_commit": "2025-11-15T17:39:52Z",
             "owner": "EleutherAI",
             "repo": "pythia",
-            "stars": 2883
+            "stars": 2885
           }
         },
         {
@@ -244,7 +244,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T17:44:05.762Z",
+    "last_updated": "2026-08-17T17:54:32.622Z",
     "original_repository": "KennethanCeyer/awesome-llm",
     "original_repository_sha": "0b8d0e33aadfd7c2e0e4d81b07871fe0aca7c289",
     "enhanced_repository": "enhansome/enhansome-llm",
