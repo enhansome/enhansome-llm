@@ -57,10 +57,10 @@
                 "archived": false,
                 "id": 614765452,
                 "language": "Python",
-                "last_commit": "2026-08-19T06:48:27Z",
+                "last_commit": "2026-08-19T17:35:03Z",
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 186683
+                "stars": 186687
               }
             },
             {
@@ -75,7 +75,7 @@
                 "last_commit": "2025-06-27T08:35:54Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92032
+                "stars": 92035
               }
             },
             {
@@ -90,7 +90,7 @@
                 "last_commit": "2026-08-18T15:51:45Z",
                 "owner": "mem0ai",
                 "repo": "mem0",
-                "stars": 63593
+                "stars": 63607
               }
             },
             {
@@ -102,10 +102,10 @@
                 "archived": false,
                 "id": 560704231,
                 "language": "Python",
-                "last_commit": "2026-08-18T16:37:12Z",
+                "last_commit": "2026-08-19T16:10:40Z",
                 "owner": "run-llama",
                 "repo": "llama_index",
-                "stars": 51741
+                "stars": 51745
               }
             },
             {
@@ -135,7 +135,7 @@
                 "last_commit": "2026-04-14T15:29:57Z",
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19200
+                "stars": 19203
               }
             },
             {
@@ -195,7 +195,7 @@
                 "last_commit": "2026-08-10T23:23:27Z",
                 "owner": "google-deepmind",
                 "repo": "gemma",
-                "stars": 5669
+                "stars": 5671
               }
             },
             {
@@ -225,7 +225,7 @@
                 "last_commit": "2025-11-15T17:39:52Z",
                 "owner": "EleutherAI",
                 "repo": "pythia",
-                "stars": 2885
+                "stars": 2886
               }
             },
             {
@@ -253,7 +253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:39:50.389Z",
+    "last_updated": "2026-08-19T17:50:00.972Z",
     "original_repository": "KennethanCeyer/awesome-llm",
     "original_repository_id": 595918058,
     "original_repository_sha": "0b8d0e33aadfd7c2e0e4d81b07871fe0aca7c289",
