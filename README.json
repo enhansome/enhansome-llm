@@ -1,251 +1,261 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Visual ChatGPT",
+              "description": "Announced by Microsoft / 2023",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 608555244,
+                "language": "Python",
+                "last_commit": "2024-01-06T02:41:20Z",
+                "owner": "chenfei-wu",
+                "repo": "TaskMatrix",
+                "stars": 34010
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LMOps",
+              "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 577753426,
+                "language": "Python",
+                "last_commit": "2026-07-25T06:15:21Z",
+                "owner": "microsoft",
+                "repo": "LMOps",
+                "stars": 4464
+              }
+            }
+          ],
+          "description": ":arrow_up: Go to top",
+          "node_type": "group",
+          "title": "Projects"
+        }
+      ],
       "title": "Models"
     },
     {
-      "description": ":arrow_up: Go to top",
-      "items": [],
-      "title": "Overview"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Visual ChatGPT",
-          "description": "Announced by Microsoft / 2023",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-01-06T02:41:20Z",
-            "owner": "chenfei-wu",
-            "repo": "TaskMatrix",
-            "stars": 34010
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LMOps",
-          "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-25T06:15:21Z",
-            "owner": "microsoft",
-            "repo": "LMOps",
-            "stars": 4464
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AutoGPT",
+              "description": "- An experimental open-source attempt to make GPT-4 fully autonomous.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 614765452,
+                "language": "Python",
+                "last_commit": "2026-08-19T06:48:27Z",
+                "owner": "Significant-Gravitas",
+                "repo": "AutoGPT",
+                "stars": 186683
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepSeek-R1",
+              "description": "- A first-generation reasoning model from DeepSeek-AI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 919443098,
+                "language": null,
+                "last_commit": "2025-06-27T08:35:54Z",
+                "owner": "deepseek-ai",
+                "repo": "DeepSeek-R1",
+                "stars": 92032
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Embedchain",
+              "description": "- Framework to create ChatGPT like bots over your dataset.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 656099147,
+                "language": "Python",
+                "last_commit": "2026-08-18T15:51:45Z",
+                "owner": "mem0ai",
+                "repo": "mem0",
+                "stars": 63593
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "llama_index",
+              "description": "- A project that provides a central interface to connect your LLM's with external data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 560704231,
+                "language": "Python",
+                "last_commit": "2026-08-18T16:37:12Z",
+                "owner": "run-llama",
+                "repo": "llama_index",
+                "stars": 51741
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stanford Alpaca",
+              "description": "- A repository of Stanford Alpaca project, a model fine-tuned from the LLaMA 7B model on 52K instruction-following demonstrations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612427246,
+                "language": "Python",
+                "last_commit": "2024-07-17T09:43:05Z",
+                "owner": "tatsu-lab",
+                "repo": "stanford_alpaca",
+                "stars": 30245
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "openai/evals",
+              "description": "- A curated list of reinforcement learning with human feedback resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 592489166,
+                "language": "Python",
+                "last_commit": "2026-04-14T15:29:57Z",
+                "owner": "openai",
+                "repo": "evals",
+                "stars": 19200
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "alpaca-lora",
+              "description": "- Instruct-tune LLaMA on consumer hardware.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 613591358,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-07-29T13:37:49Z",
+                "owner": "tloen",
+                "repo": "alpaca-lora",
+                "stars": 18910
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dalai",
+              "description": "- The cli tool to run LLaMA on the local machine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 613075789,
+                "language": "CSS",
+                "last_commit": "2024-06-18T20:29:46Z",
+                "owner": "cocktailpeanut",
+                "repo": "dalai",
+                "stars": 12898
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dolly",
+              "description": "- A large language model trained on the Databricks Machine Learning Platform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 618511002,
+                "language": "Python",
+                "last_commit": "2023-06-30T18:36:16Z",
+                "owner": "databrickslabs",
+                "repo": "dolly",
+                "stars": 10805
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "google-deepmind/gemma",
+              "description": "- Open weights LLM from Google DeepMind.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 760683276,
+                "language": "Python",
+                "last_commit": "2026-08-10T23:23:27Z",
+                "owner": "google-deepmind",
+                "repo": "gemma",
+                "stars": 5669
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "trlx",
+              "description": "- A repo for distributed training of language models with Reinforcement Learning via Human Feedback. (RLHF)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 545104023,
+                "language": "Python",
+                "last_commit": "2024-01-08T20:07:19Z",
+                "owner": "CarperAI",
+                "repo": "trlx",
+                "stars": 4754
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pythia",
+              "description": "- A suite of 16 LLMs all trained on public data seen in the exact same order and ranging in size from 70M to 12B parameters.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 441778458,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-11-15T17:39:52Z",
+                "owner": "EleutherAI",
+                "repo": "pythia",
+                "stars": 2885
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LLaMA-Adapter",
+              "description": "- Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 653537620,
+                "language": null,
+                "last_commit": "2023-06-14T08:45:33Z",
+                "owner": "ZrrSkywalker",
+                "repo": "LLaMA-Adapter",
+                "stars": 92
+              }
+            }
+          ],
+          "description": ":arrow_up: Go to top",
+          "node_type": "group",
+          "title": "GitHub repositories"
         }
       ],
-      "title": "Projects"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Commercial models"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Materials"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "AutoGPT",
-          "description": "- An experimental open-source attempt to make GPT-4 fully autonomous.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T17:45:43Z",
-            "owner": "Significant-Gravitas",
-            "repo": "AutoGPT",
-            "stars": 186667
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeepSeek-R1",
-          "description": "- A first-generation reasoning model from DeepSeek-AI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-06-27T08:35:54Z",
-            "owner": "deepseek-ai",
-            "repo": "DeepSeek-R1",
-            "stars": 92031
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Embedchain",
-          "description": "- Framework to create ChatGPT like bots over your dataset.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T15:51:45Z",
-            "owner": "mem0ai",
-            "repo": "mem0",
-            "stars": 63535
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "llama_index",
-          "description": "- A project that provides a central interface to connect your LLM's with external data.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T16:37:12Z",
-            "owner": "run-llama",
-            "repo": "llama_index",
-            "stars": 51729
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stanford Alpaca",
-          "description": "- A repository of Stanford Alpaca project, a model fine-tuned from the LLaMA 7B model on 52K instruction-following demonstrations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-07-17T09:43:05Z",
-            "owner": "tatsu-lab",
-            "repo": "stanford_alpaca",
-            "stars": 30245
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "openai/evals",
-          "description": "- A curated list of reinforcement learning with human feedback resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-14T15:29:57Z",
-            "owner": "openai",
-            "repo": "evals",
-            "stars": 19196
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "alpaca-lora",
-          "description": "- Instruct-tune LLaMA on consumer hardware.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-07-29T13:37:49Z",
-            "owner": "tloen",
-            "repo": "alpaca-lora",
-            "stars": 18910
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dalai",
-          "description": "- The cli tool to run LLaMA on the local machine.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2024-06-18T20:29:46Z",
-            "owner": "cocktailpeanut",
-            "repo": "dalai",
-            "stars": 12898
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dolly",
-          "description": "- A large language model trained on the Databricks Machine Learning Platform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-06-30T18:36:16Z",
-            "owner": "databrickslabs",
-            "repo": "dolly",
-            "stars": 10805
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "google-deepmind/gemma",
-          "description": "- Open weights LLM from Google DeepMind.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-10T23:23:27Z",
-            "owner": "google-deepmind",
-            "repo": "gemma",
-            "stars": 5666
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "trlx",
-          "description": "- A repo for distributed training of language models with Reinforcement Learning via Human Feedback. (RLHF)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-01-08T20:07:19Z",
-            "owner": "CarperAI",
-            "repo": "trlx",
-            "stars": 4753
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pythia",
-          "description": "- A suite of 16 LLMs all trained on public data seen in the exact same order and ranging in size from 70M to 12B parameters.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2025-11-15T17:39:52Z",
-            "owner": "EleutherAI",
-            "repo": "pythia",
-            "stars": 2885
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LLaMA-Adapter",
-          "description": "- Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-06-14T08:45:33Z",
-            "owner": "ZrrSkywalker",
-            "repo": "LLaMA-Adapter",
-            "stars": 92
-          }
-        }
-      ],
-      "title": "GitHub repositories"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:54:01.377Z",
+    "last_updated": "2026-08-19T12:39:50.389Z",
     "original_repository": "KennethanCeyer/awesome-llm",
+    "original_repository_id": 595918058,
     "original_repository_sha": "0b8d0e33aadfd7c2e0e4d81b07871fe0aca7c289",
     "enhanced_repository": "enhansome/enhansome-llm",
     "enhanced_repository_description": null,
