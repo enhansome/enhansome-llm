@@ -17,7 +17,7 @@
                 "last_commit": "2024-01-06T02:41:20Z",
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 34010
+                "stars": 34008
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-07-25T06:15:21Z",
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4464
+                "stars": 4465
               }
             }
           ],
@@ -57,10 +57,10 @@
                 "archived": false,
                 "id": 614765452,
                 "language": "Python",
-                "last_commit": "2026-08-19T17:35:03Z",
+                "last_commit": "2026-08-20T17:55:56Z",
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 186687
+                "stars": 186686
               }
             },
             {
@@ -75,7 +75,7 @@
                 "last_commit": "2025-06-27T08:35:54Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92035
+                "stars": 92033
               }
             },
             {
@@ -87,10 +87,10 @@
                 "archived": false,
                 "id": 656099147,
                 "language": "Python",
-                "last_commit": "2026-08-18T15:51:45Z",
+                "last_commit": "2026-08-20T17:43:45Z",
                 "owner": "mem0ai",
                 "repo": "mem0",
-                "stars": 63607
+                "stars": 63694
               }
             },
             {
@@ -102,10 +102,10 @@
                 "archived": false,
                 "id": 560704231,
                 "language": "Python",
-                "last_commit": "2026-08-19T16:10:40Z",
+                "last_commit": "2026-08-20T15:46:41Z",
                 "owner": "run-llama",
                 "repo": "llama_index",
-                "stars": 51745
+                "stars": 51770
               }
             },
             {
@@ -120,7 +120,7 @@
                 "last_commit": "2024-07-17T09:43:05Z",
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30245
+                "stars": 30242
               }
             },
             {
@@ -135,7 +135,7 @@
                 "last_commit": "2026-04-14T15:29:57Z",
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19203
+                "stars": 19207
               }
             },
             {
@@ -150,7 +150,7 @@
                 "last_commit": "2024-07-29T13:37:49Z",
                 "owner": "tloen",
                 "repo": "alpaca-lora",
-                "stars": 18910
+                "stars": 18909
               }
             },
             {
@@ -165,7 +165,7 @@
                 "last_commit": "2024-06-18T20:29:46Z",
                 "owner": "cocktailpeanut",
                 "repo": "dalai",
-                "stars": 12898
+                "stars": 12897
               }
             },
             {
@@ -180,7 +180,7 @@
                 "last_commit": "2023-06-30T18:36:16Z",
                 "owner": "databrickslabs",
                 "repo": "dolly",
-                "stars": 10805
+                "stars": 10804
               }
             },
             {
@@ -195,7 +195,7 @@
                 "last_commit": "2026-08-10T23:23:27Z",
                 "owner": "google-deepmind",
                 "repo": "gemma",
-                "stars": 5671
+                "stars": 5672
               }
             },
             {
@@ -210,7 +210,7 @@
                 "last_commit": "2024-01-08T20:07:19Z",
                 "owner": "CarperAI",
                 "repo": "trlx",
-                "stars": 4754
+                "stars": 4753
               }
             },
             {
@@ -225,7 +225,7 @@
                 "last_commit": "2025-11-15T17:39:52Z",
                 "owner": "EleutherAI",
                 "repo": "pythia",
-                "stars": 2886
+                "stars": 2891
               }
             },
             {
@@ -253,7 +253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T17:50:00.972Z",
+    "last_updated": "2026-08-20T17:56:19.915Z",
     "original_repository": "KennethanCeyer/awesome-llm",
     "original_repository_id": 595918058,
     "original_repository_sha": "0b8d0e33aadfd7c2e0e4d81b07871fe0aca7c289",
