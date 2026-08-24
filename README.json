@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "DeepSeek-R1 (671B)",
+              "description": "Announced by DeepSeek / 2025",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 919443098,
+                "language": null,
+                "last_commit": "2025-06-27T08:35:54Z",
+                "owner": "deepseek-ai",
+                "repo": "DeepSeek-R1",
+                "stars": 92036
+              }
+            }
+          ],
+          "description": ":arrow_up: Go to top\n:arrow_up: Go to top",
+          "node_type": "group",
+          "title": "Open models"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Visual ChatGPT",
               "description": "Announced by Microsoft / 2023",
               "children": [],
@@ -17,7 +39,7 @@
                 "last_commit": "2024-01-06T02:41:20Z",
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 34008
+                "stars": 34006
               }
             },
             {
@@ -50,6 +72,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "StableLM",
+              "description": "Maintained by Stability AI / 2023",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 630023030,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-04-08T19:26:02Z",
+                "owner": "Stability-AI",
+                "repo": "StableLM",
+                "stars": 15685
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Projects"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "AutoGPT",
               "description": "- An experimental open-source attempt to make GPT-4 fully autonomous.",
               "children": [],
@@ -57,10 +101,10 @@
                 "archived": false,
                 "id": 614765452,
                 "language": "Python",
-                "last_commit": "2026-08-23T13:10:52Z",
+                "last_commit": "2026-08-24T14:38:33Z",
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 186812
+                "stars": 186849
               }
             },
             {
@@ -75,7 +119,7 @@
                 "last_commit": "2025-06-27T08:35:54Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92030
+                "stars": 92036
               }
             },
             {
@@ -87,10 +131,10 @@
                 "archived": false,
                 "id": 656099147,
                 "language": "Python",
-                "last_commit": "2026-08-23T02:19:56Z",
+                "last_commit": "2026-08-24T14:19:37Z",
                 "owner": "mem0ai",
                 "repo": "mem0",
-                "stars": 63879
+                "stars": 63949
               }
             },
             {
@@ -105,7 +149,7 @@
                 "last_commit": "2026-08-20T15:46:41Z",
                 "owner": "run-llama",
                 "repo": "llama_index",
-                "stars": 51819
+                "stars": 51840
               }
             },
             {
@@ -135,7 +179,7 @@
                 "last_commit": "2026-04-14T15:29:57Z",
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19233
+                "stars": 19240
               }
             },
             {
@@ -150,7 +194,7 @@
                 "last_commit": "2024-07-29T13:37:49Z",
                 "owner": "tloen",
                 "repo": "alpaca-lora",
-                "stars": 18907
+                "stars": 18908
               }
             },
             {
@@ -180,7 +224,7 @@
                 "last_commit": "2023-06-30T18:36:16Z",
                 "owner": "databrickslabs",
                 "repo": "dolly",
-                "stars": 10804
+                "stars": 10805
               }
             },
             {
@@ -195,7 +239,7 @@
                 "last_commit": "2026-08-21T03:19:46Z",
                 "owner": "google-deepmind",
                 "repo": "gemma",
-                "stars": 5685
+                "stars": 5691
               }
             },
             {
@@ -225,7 +269,7 @@
                 "last_commit": "2025-11-15T17:39:52Z",
                 "owner": "EleutherAI",
                 "repo": "pythia",
-                "stars": 2906
+                "stars": 2909
               }
             },
             {
@@ -253,7 +297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:44:51.546Z",
+    "last_updated": "2026-08-24T14:41:26.304Z",
     "original_repository": "KennethanCeyer/awesome-llm",
     "original_repository_id": 595918058,
     "original_repository_sha": "0b8d0e33aadfd7c2e0e4d81b07871fe0aca7c289",
