@@ -17,7 +17,7 @@
                 "last_commit": "2025-06-27T08:35:54Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92038
+                "stars": 92041
               }
             }
           ],
@@ -39,7 +39,7 @@
                 "last_commit": "2024-01-06T02:41:20Z",
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 34001
+                "stars": 34000
               }
             },
             {
@@ -101,10 +101,10 @@
                 "archived": false,
                 "id": 614765452,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:50:11Z",
+                "last_commit": "2026-08-28T01:29:16Z",
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 186921
+                "stars": 186939
               }
             },
             {
@@ -119,7 +119,7 @@
                 "last_commit": "2025-06-27T08:35:54Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92038
+                "stars": 92041
               }
             },
             {
@@ -131,10 +131,10 @@
                 "archived": false,
                 "id": 656099147,
                 "language": "Python",
-                "last_commit": "2026-08-27T09:50:39Z",
+                "last_commit": "2026-08-27T16:42:05Z",
                 "owner": "mem0ai",
                 "repo": "mem0",
-                "stars": 64169
+                "stars": 64207
               }
             },
             {
@@ -146,10 +146,10 @@
                 "archived": false,
                 "id": 560704231,
                 "language": "Python",
-                "last_commit": "2026-08-27T04:16:34Z",
+                "last_commit": "2026-08-28T00:11:53Z",
                 "owner": "run-llama",
                 "repo": "llama_index",
-                "stars": 51891
+                "stars": 51894
               }
             },
             {
@@ -179,7 +179,7 @@
                 "last_commit": "2026-04-14T15:29:57Z",
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19282
+                "stars": 19288
               }
             },
             {
@@ -239,7 +239,7 @@
                 "last_commit": "2026-08-26T04:08:08Z",
                 "owner": "google-deepmind",
                 "repo": "gemma",
-                "stars": 5696
+                "stars": 5699
               }
             },
             {
@@ -269,7 +269,7 @@
                 "last_commit": "2025-11-15T17:39:52Z",
                 "owner": "EleutherAI",
                 "repo": "pythia",
-                "stars": 2911
+                "stars": 2912
               }
             },
             {
@@ -297,7 +297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:49:01.040Z",
+    "last_updated": "2026-08-28T01:35:41.343Z",
     "original_repository_info": {
       "archived": false,
       "id": 595918058,
