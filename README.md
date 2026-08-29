@@ -109,7 +109,7 @@
 
 ### Open models
 
-* [DeepSeek-R1 (671B)](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 92,040 | 🐛 34 | 📅 2025-06-27 - Announced by DeepSeek / 2025
+* [DeepSeek-R1 (671B)](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 92,037 | 🐛 33 | 📅 2025-06-27 - Announced by DeepSeek / 2025
 * [Gemma 3 (1B, 4B, 12B, 27B)](https://huggingface.co/google/gemma-3-1b-it) - Announced by DeepSeek / 2025
 * [LLaMA 3 (8B, 70B)](https://huggingface.co/meta-llama/Llama-3) - Announced by Meta / 2024
 * [Gemma 2 (2B, 9B, 27B)](https://ai.google.dev/gemma) - Announced by Google / 2024
@@ -260,10 +260,10 @@ Below are key websites and references used for evaluating and comparing large la
 
 ### GitHub repositories
 
-* [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 186,965 | 🐛 525 | 🌐 Python | 📅 2026-08-29 - ![Repo stars of Significant-Gravitas/Auto-GPT](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=social) - An experimental open-source attempt to make GPT-4 fully autonomous.
-* [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 92,040 | 🐛 34 | 📅 2025-06-27 - ![Repo stars of deepseek-ai/DeepSeek-R1](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1.svg?style=social) - A first-generation reasoning model from DeepSeek-AI.
-* [Embedchain](https://github.com/embedchain/embedchain) ⭐ 64,275 | 🐛 703 | 🌐 Python | 📅 2026-08-28 - ![Repo stars of embedchain/embedchain](https://img.shields.io/github/stars/embedchain/embedchain.svg?style=social) - Framework to create ChatGPT like bots over your dataset.
-* [llama\_index](https://github.com/jerryjliu/llama_index) ⭐ 51,909 | 🐛 673 | 🌐 Python | 📅 2026-08-28 - ![Repo stars of jerryjliu/llama\_index](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social) - A project that provides a central interface to connect your LLM's with external data.
+* [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 186,965 | 🐛 517 | 🌐 Python | 📅 2026-08-29 - ![Repo stars of Significant-Gravitas/Auto-GPT](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=social) - An experimental open-source attempt to make GPT-4 fully autonomous.
+* [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 92,037 | 🐛 33 | 📅 2025-06-27 - ![Repo stars of deepseek-ai/DeepSeek-R1](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1.svg?style=social) - A first-generation reasoning model from DeepSeek-AI.
+* [Embedchain](https://github.com/embedchain/embedchain) ⭐ 64,281 | 🐛 703 | 🌐 Python | 📅 2026-08-28 - ![Repo stars of embedchain/embedchain](https://img.shields.io/github/stars/embedchain/embedchain.svg?style=social) - Framework to create ChatGPT like bots over your dataset.
+* [llama\_index](https://github.com/jerryjliu/llama_index) ⭐ 51,909 | 🐛 670 | 🌐 Python | 📅 2026-08-29 - ![Repo stars of jerryjliu/llama\_index](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social) - A project that provides a central interface to connect your LLM's with external data.
 * [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) ⭐ 30,246 | 🐛 186 | 🌐 Python | 📅 2024-07-17 - ![Repo stars of tatsu-lab/stanford\_alpaca](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca?style=social) - A repository of Stanford Alpaca project,  a model fine-tuned from the LLaMA 7B model on 52K instruction-following demonstrations.
 * [openai/evals](https://github.com/openai/evals) ⭐ 19,297 | 🐛 324 | 🌐 Python | 📅 2026-04-14 - ![Repo stars of openai/evals](https://img.shields.io/github/stars/openai/evals?style=social) - A curated list of reinforcement learning with human feedback resources.
 * [alpaca-lora](https://github.com/tloen/alpaca-lora) ⭐ 18,908 | 🐛 365 | 🌐 Jupyter Notebook | 📅 2024-07-29 - ![Repo stars of tloen/alpaca-lora](https://img.shields.io/github/stars/tloen/alpaca-lora?style=social) - Instruct-tune LLaMA on consumer hardware.

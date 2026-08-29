@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 919443098,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-06-27T08:35:54Z",
+                "open_issues": 33,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92040
+                "stars": 92037,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
             }
@@ -35,12 +40,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 608555244,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-06T02:41:20Z",
+                "open_issues": 261,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 34000
+                "stars": 34000,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
             },
@@ -51,12 +61,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "General technology for enabling AI capabilities w/ LLMs and MLLMs",
+                "homepage": "https://aka.ms/GeneralAI",
                 "id": 577753426,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-25T06:15:21Z",
+                "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4465
+                "stars": 4465,
+                "topics": [
+                  "agi",
+                  "gpt",
+                  "language-model",
+                  "llm",
+                  "lm",
+                  "lmops",
+                  "nlp",
+                  "pretraining",
+                  "prompt",
+                  "promptist",
+                  "x-prompt"
+                ]
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
             }
@@ -80,12 +107,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StableLM: Stability AI Language Models",
+                "homepage": null,
                 "id": 630023030,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-08T19:26:02Z",
+                "open_issues": 27,
                 "owner": "Stability-AI",
                 "repo": "StableLM",
-                "stars": 15684
+                "stars": 15684,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
             }
@@ -103,12 +135,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+                "homepage": "https://agpt.co",
                 "id": 614765452,
                 "language": "Python",
-                "last_commit": "2026-08-29T00:55:53Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:02:30Z",
+                "open_issues": 517,
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 186965
+                "stars": 186965,
+                "topics": [
+                  "agentic-ai",
+                  "agents",
+                  "ai",
+                  "artificial-intelligence",
+                  "autonomous-agents",
+                  "claude",
+                  "gpt",
+                  "llama-api",
+                  "llm",
+                  "openai",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
             },
@@ -119,12 +168,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 919443098,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-06-27T08:35:54Z",
+                "open_issues": 33,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92040
+                "stars": 92037,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
             },
@@ -135,12 +189,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Universal memory layer for AI Agents",
+                "homepage": "https://mem0.ai",
                 "id": 656099147,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T18:02:50Z",
+                "open_issues": 703,
                 "owner": "mem0ai",
                 "repo": "mem0",
-                "stars": 64275
+                "stars": 64281,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "application",
+                  "chatbots",
+                  "chatgpt",
+                  "genai",
+                  "llm",
+                  "long-term-memory",
+                  "memory",
+                  "memory-management",
+                  "python",
+                  "rag",
+                  "state-management"
+                ]
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
             },
@@ -151,12 +225,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LlamaIndex is the leading document agent and OCR platform",
+                "homepage": "https://developers.llamaindex.ai",
                 "id": 560704231,
                 "language": "Python",
-                "last_commit": "2026-08-28T15:33:53Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:43:47Z",
+                "open_issues": 670,
                 "owner": "run-llama",
                 "repo": "llama_index",
-                "stars": 51909
+                "stars": 51909,
+                "topics": [
+                  "agents",
+                  "application",
+                  "data",
+                  "fine-tuning",
+                  "framework",
+                  "llamaindex",
+                  "llm",
+                  "multi-agents",
+                  "rag",
+                  "vector-database"
+                ]
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
             },
@@ -167,12 +257,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
+                "homepage": "https://crfm.stanford.edu/2023/03/13/alpaca.html",
                 "id": 612427246,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-17T09:43:05Z",
+                "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30246
+                "stars": 30246,
+                "topics": [
+                  "deep-learning",
+                  "instruction-following",
+                  "language-model"
+                ]
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
             },
@@ -183,12 +282,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
+                "homepage": null,
                 "id": 592489166,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-14T15:29:57Z",
+                "open_issues": 324,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19297
+                "stars": 19297,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
             },
@@ -199,12 +303,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Instruct-tune LLaMA on consumer hardware",
+                "homepage": null,
                 "id": 613591358,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-29T13:37:49Z",
+                "open_issues": 365,
                 "owner": "tloen",
                 "repo": "alpaca-lora",
-                "stars": 18908
+                "stars": 18908,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
             },
@@ -215,12 +324,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The simplest way to run LLaMA on your local machine",
+                "homepage": "https://cocktailpeanut.github.io/dalai",
                 "id": 613075789,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2024-06-18T20:29:46Z",
+                "open_issues": 333,
                 "owner": "cocktailpeanut",
                 "repo": "dalai",
-                "stars": 12897
+                "stars": 12897,
+                "topics": [
+                  "ai",
+                  "llama",
+                  "llm"
+                ]
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
             },
@@ -231,12 +349,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform",
+                "homepage": "https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html",
                 "id": 618511002,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-30T18:36:16Z",
+                "open_issues": 5,
                 "owner": "databrickslabs",
                 "repo": "dolly",
-                "stars": 10805
+                "stars": 10805,
+                "topics": [
+                  "chatbot",
+                  "databricks",
+                  "dolly",
+                  "gpt"
+                ]
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
             },
@@ -247,12 +375,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gemma open-weight LLM library, from Google DeepMind",
+                "homepage": "https://gemma-llm.readthedocs.io",
                 "id": 760683276,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T04:08:08Z",
+                "open_issues": 320,
                 "owner": "google-deepmind",
                 "repo": "gemma",
-                "stars": 5700
+                "stars": 5700,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
             },
@@ -263,12 +396,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)",
+                "homepage": null,
                 "id": 545104023,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-08T20:07:19Z",
+                "open_issues": 102,
                 "owner": "CarperAI",
                 "repo": "trlx",
-                "stars": 4755
+                "stars": 4755,
+                "topics": [
+                  "machine-learning",
+                  "pytorch",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
             },
@@ -279,12 +421,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The hub for EleutherAI's work on interpretability and learning dynamics",
+                "homepage": null,
                 "id": 441778458,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-15T17:39:52Z",
+                "open_issues": 26,
                 "owner": "EleutherAI",
                 "repo": "pythia",
-                "stars": 2913
+                "stars": 2913,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
             },
@@ -295,12 +442,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters",
+                "homepage": null,
                 "id": 653537620,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-06-14T08:45:33Z",
+                "open_issues": 1,
                 "owner": "ZrrSkywalker",
                 "repo": "LLaMA-Adapter",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
             }
@@ -314,15 +466,38 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:05:10.329Z",
+    "last_updated": "2026-08-29T04:58:21.110Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome series for Large Language Model(LLM)s",
+      "homepage": "https://github.com/KennethanCeyer/awesome-llm",
       "id": 595918058,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-03-17T12:11:49Z",
+      "open_issues": 6,
       "owner": "KennethanCeyer",
       "repo": "awesome-llm",
-      "stars": 88
+      "stars": 88,
+      "topics": [
+        "ai",
+        "awesome",
+        "awesome-list",
+        "bard",
+        "bert",
+        "chatgpt",
+        "gpt",
+        "gpt3",
+        "hyperparameters",
+        "large-language-models",
+        "llm",
+        "machine-learning",
+        "ml",
+        "natural-language-processing",
+        "nlp",
+        "openai",
+        "t5"
+      ]
     },
     "original_repository_sha": "0b8d0e33aadfd7c2e0e4d81b07871fe0aca7c289",
     "enhanced_repository": "enhansome/enhansome-llm",
