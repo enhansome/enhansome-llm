@@ -132,8 +132,8 @@
 
 ### Projects
 
-* [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) ⭐ 34,000 | 🐛 261 | 🌐 Python | 📅 2024-01-06 - Announced by Microsoft / 2023
-* [LMOps](https://github.com/microsoft/lmops) ⭐ 4,465 | 🐛 119 | 🌐 Python | 📅 2026-07-25 - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities.
+* [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) ⭐ 33,999 | 🐛 261 | 🌐 Python | 📅 2024-01-06 - Announced by Microsoft / 2023
+* [LMOps](https://github.com/microsoft/lmops) ⭐ 4,466 | 🐛 119 | 🌐 Python | 📅 2026-07-25 - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities.
 
 [:arrow\_up: Go to top](#top)
 
@@ -260,18 +260,18 @@ Below are key websites and references used for evaluating and comparing large la
 
 ### GitHub repositories
 
-* [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 186,965 | 🐛 517 | 🌐 Python | 📅 2026-08-29 - ![Repo stars of Significant-Gravitas/Auto-GPT](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=social) - An experimental open-source attempt to make GPT-4 fully autonomous.
+* [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 186,987 | 🐛 520 | 🌐 Python | 📅 2026-08-29 - ![Repo stars of Significant-Gravitas/Auto-GPT](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=social) - An experimental open-source attempt to make GPT-4 fully autonomous.
 * [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 92,037 | 🐛 33 | 📅 2025-06-27 - ![Repo stars of deepseek-ai/DeepSeek-R1](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1.svg?style=social) - A first-generation reasoning model from DeepSeek-AI.
-* [Embedchain](https://github.com/embedchain/embedchain) ⭐ 64,281 | 🐛 703 | 🌐 Python | 📅 2026-08-28 - ![Repo stars of embedchain/embedchain](https://img.shields.io/github/stars/embedchain/embedchain.svg?style=social) - Framework to create ChatGPT like bots over your dataset.
-* [llama\_index](https://github.com/jerryjliu/llama_index) ⭐ 51,909 | 🐛 670 | 🌐 Python | 📅 2026-08-29 - ![Repo stars of jerryjliu/llama\_index](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social) - A project that provides a central interface to connect your LLM's with external data.
+* [Embedchain](https://github.com/embedchain/embedchain) ⭐ 64,316 | 🐛 703 | 🌐 Python | 📅 2026-08-28 - ![Repo stars of embedchain/embedchain](https://img.shields.io/github/stars/embedchain/embedchain.svg?style=social) - Framework to create ChatGPT like bots over your dataset.
+* [llama\_index](https://github.com/jerryjliu/llama_index) ⭐ 51,912 | 🐛 673 | 🌐 Python | 📅 2026-08-29 - ![Repo stars of jerryjliu/llama\_index](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social) - A project that provides a central interface to connect your LLM's with external data.
 * [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) ⭐ 30,246 | 🐛 186 | 🌐 Python | 📅 2024-07-17 - ![Repo stars of tatsu-lab/stanford\_alpaca](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca?style=social) - A repository of Stanford Alpaca project,  a model fine-tuned from the LLaMA 7B model on 52K instruction-following demonstrations.
-* [openai/evals](https://github.com/openai/evals) ⭐ 19,297 | 🐛 324 | 🌐 Python | 📅 2026-04-14 - ![Repo stars of openai/evals](https://img.shields.io/github/stars/openai/evals?style=social) - A curated list of reinforcement learning with human feedback resources.
-* [alpaca-lora](https://github.com/tloen/alpaca-lora) ⭐ 18,908 | 🐛 365 | 🌐 Jupyter Notebook | 📅 2024-07-29 - ![Repo stars of tloen/alpaca-lora](https://img.shields.io/github/stars/tloen/alpaca-lora?style=social) - Instruct-tune LLaMA on consumer hardware.
+* [openai/evals](https://github.com/openai/evals) ⭐ 19,307 | 🐛 327 | 🌐 Python | 📅 2026-04-14 - ![Repo stars of openai/evals](https://img.shields.io/github/stars/openai/evals?style=social) - A curated list of reinforcement learning with human feedback resources.
+* [alpaca-lora](https://github.com/tloen/alpaca-lora) ⭐ 18,909 | 🐛 365 | 🌐 Jupyter Notebook | 📅 2024-07-29 - ![Repo stars of tloen/alpaca-lora](https://img.shields.io/github/stars/tloen/alpaca-lora?style=social) - Instruct-tune LLaMA on consumer hardware.
 * [dalai](https://github.com/cocktailpeanut/dalai) ⭐ 12,897 | 🐛 333 | 🌐 CSS | 📅 2024-06-18 - ![Repo stars of cocktailpeanut/dalai](https://img.shields.io/github/stars/cocktailpeanut/dalai?style=social) - The cli tool to run LLaMA on the local machine.
 * [Dolly](https://github.com/databrickslabs/dolly) ⭐ 10,805 | 🐛 5 | 🌐 Python | 📅 2023-06-30 - ![Repo stars of databrickslabs/dolly](https://img.shields.io/github/stars/databrickslabs/dolly?style=social) - A large language model trained on the Databricks Machine Learning Platform.
-* [google-deepmind/gemma](https://github.com/google-deepmind/gemma) ⭐ 5,700 | 🐛 320 | 🌐 Python | 📅 2026-08-26 - ![Repo stars of google-deepmind/gemma](https://img.shields.io/github/stars/google-deepmind/gemma.svg?style=social) - Open weights LLM from Google DeepMind.
+* [google-deepmind/gemma](https://github.com/google-deepmind/gemma) ⭐ 5,702 | 🐛 320 | 🌐 Python | 📅 2026-08-26 - ![Repo stars of google-deepmind/gemma](https://img.shields.io/github/stars/google-deepmind/gemma.svg?style=social) - Open weights LLM from Google DeepMind.
 * [trlx](https://github.com/CarperAI/trlx) ⭐ 4,755 | 🐛 102 | 🌐 Python | 📅 2024-01-08 - ![Repo stars of promptslab/Promptify](https://img.shields.io/github/stars/CarperAI/trlx?style=social) - A repo for distributed training of language models with Reinforcement Learning via Human Feedback. (RLHF)
-* [pythia](https://github.com/EleutherAI/pythia) ⭐ 2,913 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2025-11-15 - ![Repo stars of EleutherAI/pythia](https://img.shields.io/github/stars/EleutherAI/pythia?style=social) - A suite of 16 LLMs all trained on public data seen in the exact same order and ranging in size from 70M to 12B parameters.
+* [pythia](https://github.com/EleutherAI/pythia) ⭐ 2,914 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2025-11-15 - ![Repo stars of EleutherAI/pythia](https://img.shields.io/github/stars/EleutherAI/pythia?style=social) - A suite of 16 LLMs all trained on public data seen in the exact same order and ranging in size from 70M to 12B parameters.
 * [LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter) ⭐ 92 | 🐛 1 | 📅 2023-06-14 - ![Repo stars of ZrrSkywalker/LLaMA-Adapter](https://img.shields.io/github/stars/ZrrSkywalker/LLaMA-Adapter?style=social) - Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters.
 
 [:arrow\_up: Go to top](#top)

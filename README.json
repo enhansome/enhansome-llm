@@ -49,7 +49,7 @@
                 "open_issues": 261,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 34000,
+                "stars": 33999,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
@@ -70,7 +70,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4465,
+                "stars": 4466,
                 "topics": [
                   "agi",
                   "gpt",
@@ -140,11 +140,11 @@
                 "id": 614765452,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T04:02:30Z",
-                "open_issues": 517,
+                "last_commit": "2026-08-29T19:10:02Z",
+                "open_issues": 520,
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 186965,
+                "stars": 186987,
                 "topics": [
                   "agentic-ai",
                   "agents",
@@ -198,7 +198,7 @@
                 "open_issues": 703,
                 "owner": "mem0ai",
                 "repo": "mem0",
-                "stars": 64281,
+                "stars": 64316,
                 "topics": [
                   "agents",
                   "ai",
@@ -230,11 +230,11 @@
                 "id": 560704231,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-29T03:43:47Z",
-                "open_issues": 670,
+                "last_commit": "2026-08-29T19:16:16Z",
+                "open_issues": 673,
                 "owner": "run-llama",
                 "repo": "llama_index",
-                "stars": 51909,
+                "stars": 51912,
                 "topics": [
                   "agents",
                   "application",
@@ -288,10 +288,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-04-14T15:29:57Z",
-                "open_issues": 324,
+                "open_issues": 327,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19297,
+                "stars": 19307,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
@@ -312,7 +312,7 @@
                 "open_issues": 365,
                 "owner": "tloen",
                 "repo": "alpaca-lora",
-                "stars": 18908,
+                "stars": 18909,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
@@ -384,7 +384,7 @@
                 "open_issues": 320,
                 "owner": "google-deepmind",
                 "repo": "gemma",
-                "stars": 5700,
+                "stars": 5702,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
@@ -430,7 +430,7 @@
                 "open_issues": 26,
                 "owner": "EleutherAI",
                 "repo": "pythia",
-                "stars": 2913,
+                "stars": 2914,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:58:21.110Z",
+    "last_updated": "2026-08-29T19:54:30.084Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome series for Large Language Model(LLM)s",
