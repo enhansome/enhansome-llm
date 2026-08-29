@@ -17,8 +17,9 @@
                 "last_commit": "2025-06-27T08:35:54Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92041
-              }
+                "stars": 92040
+              },
+              "first_seen": "2026-08-29T01:05:10.329Z"
             }
           ],
           "description": ":arrow_up: Go to top\n:arrow_up: Go to top",
@@ -40,7 +41,8 @@
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
                 "stars": 34000
-              }
+              },
+              "first_seen": "2026-08-29T01:05:10.329Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "microsoft",
                 "repo": "LMOps",
                 "stars": 4465
-              }
+              },
+              "first_seen": "2026-08-29T01:05:10.329Z"
             }
           ],
           "description": ":arrow_up: Go to top",
@@ -83,7 +86,8 @@
                 "owner": "Stability-AI",
                 "repo": "StableLM",
                 "stars": 15684
-              }
+              },
+              "first_seen": "2026-08-29T01:05:10.329Z"
             }
           ],
           "description": null,
@@ -101,11 +105,12 @@
                 "archived": false,
                 "id": 614765452,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:29:16Z",
+                "last_commit": "2026-08-29T00:55:53Z",
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 186939
-              }
+                "stars": 186965
+              },
+              "first_seen": "2026-08-29T01:05:10.329Z"
             },
             {
               "node_type": "item",
@@ -119,8 +124,9 @@
                 "last_commit": "2025-06-27T08:35:54Z",
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92041
-              }
+                "stars": 92040
+              },
+              "first_seen": "2026-08-29T01:05:10.329Z"
             },
             {
               "node_type": "item",
@@ -131,11 +137,12 @@
                 "archived": false,
                 "id": 656099147,
                 "language": "Python",
-                "last_commit": "2026-08-27T16:42:05Z",
+                "last_commit": "2026-08-28T18:02:50Z",
                 "owner": "mem0ai",
                 "repo": "mem0",
-                "stars": 64207
-              }
+                "stars": 64275
+              },
+              "first_seen": "2026-08-29T01:05:10.329Z"
             },
             {
               "node_type": "item",
@@ -146,11 +153,12 @@
                 "archived": false,
                 "id": 560704231,
                 "language": "Python",
-                "last_commit": "2026-08-28T00:11:53Z",
+                "last_commit": "2026-08-28T15:33:53Z",
                 "owner": "run-llama",
                 "repo": "llama_index",
-                "stars": 51894
-              }
+                "stars": 51909
+              },
+              "first_seen": "2026-08-29T01:05:10.329Z"
             },
             {
               "node_type": "item",
@@ -164,8 +172,9 @@
                 "last_commit": "2024-07-17T09:43:05Z",
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30247
-              }
+                "stars": 30246
+              },
+              "first_seen": "2026-08-29T01:05:10.329Z"
             },
             {
               "node_type": "item",
@@ -179,8 +188,9 @@
                 "last_commit": "2026-04-14T15:29:57Z",
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19288
-              }
+                "stars": 19297
+              },
+              "first_seen": "2026-08-29T01:05:10.329Z"
             },
             {
               "node_type": "item",
@@ -194,8 +204,9 @@
                 "last_commit": "2024-07-29T13:37:49Z",
                 "owner": "tloen",
                 "repo": "alpaca-lora",
-                "stars": 18906
-              }
+                "stars": 18908
+              },
+              "first_seen": "2026-08-29T01:05:10.329Z"
             },
             {
               "node_type": "item",
@@ -209,8 +220,9 @@
                 "last_commit": "2024-06-18T20:29:46Z",
                 "owner": "cocktailpeanut",
                 "repo": "dalai",
-                "stars": 12896
-              }
+                "stars": 12897
+              },
+              "first_seen": "2026-08-29T01:05:10.329Z"
             },
             {
               "node_type": "item",
@@ -225,7 +237,8 @@
                 "owner": "databrickslabs",
                 "repo": "dolly",
                 "stars": 10805
-              }
+              },
+              "first_seen": "2026-08-29T01:05:10.329Z"
             },
             {
               "node_type": "item",
@@ -239,8 +252,9 @@
                 "last_commit": "2026-08-26T04:08:08Z",
                 "owner": "google-deepmind",
                 "repo": "gemma",
-                "stars": 5699
-              }
+                "stars": 5700
+              },
+              "first_seen": "2026-08-29T01:05:10.329Z"
             },
             {
               "node_type": "item",
@@ -255,7 +269,8 @@
                 "owner": "CarperAI",
                 "repo": "trlx",
                 "stars": 4755
-              }
+              },
+              "first_seen": "2026-08-29T01:05:10.329Z"
             },
             {
               "node_type": "item",
@@ -269,8 +284,9 @@
                 "last_commit": "2025-11-15T17:39:52Z",
                 "owner": "EleutherAI",
                 "repo": "pythia",
-                "stars": 2912
-              }
+                "stars": 2913
+              },
+              "first_seen": "2026-08-29T01:05:10.329Z"
             },
             {
               "node_type": "item",
@@ -285,7 +301,8 @@
                 "owner": "ZrrSkywalker",
                 "repo": "LLaMA-Adapter",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-29T01:05:10.329Z"
             }
           ],
           "description": ":arrow_up: Go to top",
@@ -297,7 +314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:35:41.343Z",
+    "last_updated": "2026-08-29T01:05:10.329Z",
     "original_repository_info": {
       "archived": false,
       "id": 595918058,
