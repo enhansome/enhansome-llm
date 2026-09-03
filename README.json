@@ -18,10 +18,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2025-06-27T08:35:54Z",
-                "open_issues": 33,
+                "open_issues": 32,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92028,
+                "stars": 92026,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
@@ -49,7 +49,7 @@
                 "open_issues": 261,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33994,
+                "stars": 33993,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
@@ -116,7 +116,7 @@
                 "open_issues": 27,
                 "owner": "Stability-AI",
                 "repo": "StableLM",
-                "stars": 15680,
+                "stars": 15682,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
@@ -140,11 +140,11 @@
                 "id": 614765452,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T19:34:55Z",
-                "open_issues": 531,
+                "last_commit": "2026-09-03T19:54:19Z",
+                "open_issues": 552,
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 187081,
+                "stars": 187105,
                 "topics": [
                   "agentic-ai",
                   "agents",
@@ -174,10 +174,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2025-06-27T08:35:54Z",
-                "open_issues": 33,
+                "open_issues": 32,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92028,
+                "stars": 92026,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
@@ -194,11 +194,11 @@
                 "id": 656099147,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T16:38:17Z",
-                "open_issues": 719,
+                "last_commit": "2026-09-03T16:43:03Z",
+                "open_issues": 722,
                 "owner": "mem0ai",
                 "repo": "mem0",
-                "stars": 64590,
+                "stars": 64661,
                 "topics": [
                   "agentic-memory",
                   "agentic-memory-system",
@@ -230,11 +230,11 @@
                 "id": 560704231,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-02T19:47:50Z",
-                "open_issues": 694,
+                "last_commit": "2026-09-03T03:05:30Z",
+                "open_issues": 700,
                 "owner": "run-llama",
                 "repo": "llama_index",
-                "stars": 51983,
+                "stars": 52001,
                 "topics": [
                   "agents",
                   "application",
@@ -266,7 +266,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30241,
+                "stars": 30240,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -288,10 +288,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-04-14T15:29:57Z",
-                "open_issues": 327,
+                "open_issues": 328,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19365,
+                "stars": 19374,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
@@ -312,7 +312,7 @@
                 "open_issues": 365,
                 "owner": "tloen",
                 "repo": "alpaca-lora",
-                "stars": 18911,
+                "stars": 18912,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
@@ -380,11 +380,11 @@
                 "id": 760683276,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T10:29:45Z",
+                "last_commit": "2026-09-03T11:02:24Z",
                 "open_issues": 328,
                 "owner": "google-deepmind",
                 "repo": "gemma",
-                "stars": 5710,
+                "stars": 5711,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
@@ -405,7 +405,7 @@
                 "open_issues": 102,
                 "owner": "CarperAI",
                 "repo": "trlx",
-                "stars": 4754,
+                "stars": 4753,
                 "topics": [
                   "machine-learning",
                   "pytorch",
@@ -430,7 +430,7 @@
                 "open_issues": 26,
                 "owner": "EleutherAI",
                 "repo": "pythia",
-                "stars": 2919,
+                "stars": 2920,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T19:58:48.370Z",
+    "last_updated": "2026-09-03T20:01:03.265Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome series for Large Language Model(LLM)s",
