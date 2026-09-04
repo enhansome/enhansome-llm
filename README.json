@@ -18,10 +18,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2025-06-27T08:35:54Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92026,
+                "stars": 92023,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
@@ -49,7 +49,7 @@
                 "open_issues": 261,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33993,
+                "stars": 33990,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
@@ -70,7 +70,7 @@
                 "open_issues": 119,
                 "owner": "microsoft",
                 "repo": "LMOps",
-                "stars": 4465,
+                "stars": 4467,
                 "topics": [
                   "agi",
                   "gpt",
@@ -140,11 +140,11 @@
                 "id": 614765452,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T19:54:19Z",
-                "open_issues": 552,
+                "last_commit": "2026-09-04T19:19:13Z",
+                "open_issues": 567,
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 187105,
+                "stars": 187123,
                 "topics": [
                   "agentic-ai",
                   "agents",
@@ -174,10 +174,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2025-06-27T08:35:54Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "deepseek-ai",
                 "repo": "DeepSeek-R1",
-                "stars": 92026,
+                "stars": 92023,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
@@ -194,11 +194,11 @@
                 "id": 656099147,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T16:43:03Z",
-                "open_issues": 722,
+                "last_commit": "2026-09-04T16:32:10Z",
+                "open_issues": 725,
                 "owner": "mem0ai",
                 "repo": "mem0",
-                "stars": 64661,
+                "stars": 64709,
                 "topics": [
                   "agentic-memory",
                   "agentic-memory-system",
@@ -231,10 +231,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-03T03:05:30Z",
-                "open_issues": 700,
+                "open_issues": 704,
                 "owner": "run-llama",
                 "repo": "llama_index",
-                "stars": 52001,
+                "stars": 52021,
                 "topics": [
                   "agents",
                   "application",
@@ -266,7 +266,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30240,
+                "stars": 30237,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -288,10 +288,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-04-14T15:29:57Z",
-                "open_issues": 328,
+                "open_issues": 329,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19374,
+                "stars": 19382,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
@@ -358,7 +358,7 @@
                 "open_issues": 5,
                 "owner": "databrickslabs",
                 "repo": "dolly",
-                "stars": 10804,
+                "stars": 10805,
                 "topics": [
                   "chatbot",
                   "databricks",
@@ -384,7 +384,7 @@
                 "open_issues": 328,
                 "owner": "google-deepmind",
                 "repo": "gemma",
-                "stars": 5711,
+                "stars": 5713,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T20:01:03.265Z",
+    "last_updated": "2026-09-04T19:46:31.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome series for Large Language Model(LLM)s",
