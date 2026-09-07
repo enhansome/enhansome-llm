@@ -109,7 +109,7 @@
 
 ### Open models
 
-* [DeepSeek-R1 (671B)](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 92,016 | 🐛 33 | 📅 2025-06-27 - Announced by DeepSeek / 2025
+* [DeepSeek-R1 (671B)](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 92,008 | 🐛 33 | 📅 2025-06-27 - Announced by DeepSeek / 2025
 * [Gemma 3 (1B, 4B, 12B, 27B)](https://huggingface.co/google/gemma-3-1b-it) - Announced by DeepSeek / 2025
 * [LLaMA 3 (8B, 70B)](https://huggingface.co/meta-llama/Llama-3) - Announced by Meta / 2024
 * [Gemma 2 (2B, 9B, 27B)](https://ai.google.dev/gemma) - Announced by Google / 2024
@@ -132,8 +132,8 @@
 
 ### Projects
 
-* [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) ⭐ 33,987 | 🐛 261 | 🌐 Python | 📅 2024-01-06 - Announced by Microsoft / 2023
-* [LMOps](https://github.com/microsoft/lmops) ⭐ 4,467 | 🐛 119 | 🌐 Python | 📅 2026-07-25 - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities.
+* [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) ⭐ 33,986 | 🐛 261 | 🌐 Python | 📅 2024-01-06 - Announced by Microsoft / 2023
+* [LMOps](https://github.com/microsoft/lmops) ⭐ 4,469 | 🐛 119 | 🌐 Python | 📅 2026-07-25 - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities.
 
 [:arrow\_up: Go to top](#top)
 
@@ -260,13 +260,13 @@ Below are key websites and references used for evaluating and comparing large la
 
 ### GitHub repositories
 
-* [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 187,173 | 🐛 578 | 🌐 Python | 📅 2026-09-06 - ![Repo stars of Significant-Gravitas/Auto-GPT](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=social) - An experimental open-source attempt to make GPT-4 fully autonomous.
-* [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 92,016 | 🐛 33 | 📅 2025-06-27 - ![Repo stars of deepseek-ai/DeepSeek-R1](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1.svg?style=social) - A first-generation reasoning model from DeepSeek-AI.
-* [Embedchain](https://github.com/embedchain/embedchain) ⭐ 64,786 | 🐛 732 | 🌐 Python | 📅 2026-09-04 - ![Repo stars of embedchain/embedchain](https://img.shields.io/github/stars/embedchain/embedchain.svg?style=social) - Framework to create ChatGPT like bots over your dataset.
-* [llama\_index](https://github.com/jerryjliu/llama_index) ⭐ 52,039 | 🐛 715 | 🌐 Python | 📅 2026-09-05 - ![Repo stars of jerryjliu/llama\_index](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social) - A project that provides a central interface to connect your LLM's with external data.
-* [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) ⭐ 30,235 | 🐛 186 | 🌐 Python | 📅 2024-07-17 - ![Repo stars of tatsu-lab/stanford\_alpaca](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca?style=social) - A repository of Stanford Alpaca project,  a model fine-tuned from the LLaMA 7B model on 52K instruction-following demonstrations.
-* [openai/evals](https://github.com/openai/evals) ⭐ 19,395 | 🐛 333 | 🌐 Python | 📅 2026-04-14 - ![Repo stars of openai/evals](https://img.shields.io/github/stars/openai/evals?style=social) - A curated list of reinforcement learning with human feedback resources.
-* [alpaca-lora](https://github.com/tloen/alpaca-lora) ⭐ 18,910 | 🐛 365 | 🌐 Jupyter Notebook | 📅 2024-07-29 - ![Repo stars of tloen/alpaca-lora](https://img.shields.io/github/stars/tloen/alpaca-lora?style=social) - Instruct-tune LLaMA on consumer hardware.
+* [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 187,187 | 🐛 598 | 🌐 Python | 📅 2026-09-07 - ![Repo stars of Significant-Gravitas/Auto-GPT](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=social) - An experimental open-source attempt to make GPT-4 fully autonomous.
+* [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 92,008 | 🐛 33 | 📅 2025-06-27 - ![Repo stars of deepseek-ai/DeepSeek-R1](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1.svg?style=social) - A first-generation reasoning model from DeepSeek-AI.
+* [Embedchain](https://github.com/embedchain/embedchain) ⭐ 64,859 | 🐛 732 | 🌐 Python | 📅 2026-09-04 - ![Repo stars of embedchain/embedchain](https://img.shields.io/github/stars/embedchain/embedchain.svg?style=social) - Framework to create ChatGPT like bots over your dataset.
+* [llama\_index](https://github.com/jerryjliu/llama_index) ⭐ 52,059 | 🐛 726 | 🌐 Python | 📅 2026-09-05 - ![Repo stars of jerryjliu/llama\_index](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social) - A project that provides a central interface to connect your LLM's with external data.
+* [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) ⭐ 30,236 | 🐛 186 | 🌐 Python | 📅 2024-07-17 - ![Repo stars of tatsu-lab/stanford\_alpaca](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca?style=social) - A repository of Stanford Alpaca project,  a model fine-tuned from the LLaMA 7B model on 52K instruction-following demonstrations.
+* [openai/evals](https://github.com/openai/evals) ⭐ 19,399 | 🐛 334 | 🌐 Python | 📅 2026-04-14 - ![Repo stars of openai/evals](https://img.shields.io/github/stars/openai/evals?style=social) - A curated list of reinforcement learning with human feedback resources.
+* [alpaca-lora](https://github.com/tloen/alpaca-lora) ⭐ 18,909 | 🐛 365 | 🌐 Jupyter Notebook | 📅 2024-07-29 - ![Repo stars of tloen/alpaca-lora](https://img.shields.io/github/stars/tloen/alpaca-lora?style=social) - Instruct-tune LLaMA on consumer hardware.
 * [dalai](https://github.com/cocktailpeanut/dalai) ⭐ 12,895 | 🐛 333 | 🌐 CSS | 📅 2024-06-18 - ![Repo stars of cocktailpeanut/dalai](https://img.shields.io/github/stars/cocktailpeanut/dalai?style=social) - The cli tool to run LLaMA on the local machine.
 * [Dolly](https://github.com/databrickslabs/dolly) ⭐ 10,804 | 🐛 5 | 🌐 Python | 📅 2023-06-30 - ![Repo stars of databrickslabs/dolly](https://img.shields.io/github/stars/databrickslabs/dolly?style=social) - A large language model trained on the Databricks Machine Learning Platform.
 * [google-deepmind/gemma](https://github.com/google-deepmind/gemma) ⭐ 5,716 | 🐛 328 | 🌐 Python | 📅 2026-09-03 - ![Repo stars of google-deepmind/gemma](https://img.shields.io/github/stars/google-deepmind/gemma.svg?style=social) - Open weights LLM from Google DeepMind.
@@ -319,4 +319,4 @@ We appreciate your contributions and thank you for helping to make the Awesome L
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
