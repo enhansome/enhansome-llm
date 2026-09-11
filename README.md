@@ -132,7 +132,7 @@
 
 ### Projects
 
-* [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) ⭐ 33,986 | 🐛 261 | 🌐 Python | 📅 2024-01-06 - Announced by Microsoft / 2023
+* [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt) ⭐ 33,985 | 🐛 261 | 🌐 Python | 📅 2024-01-06 - Announced by Microsoft / 2023
 * [LMOps](https://github.com/microsoft/lmops) ⭐ 4,473 | 🐛 119 | 🌐 Python | 📅 2026-07-25 - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities.
 
 [:arrow\_up: Go to top](#top)
@@ -250,7 +250,7 @@ Below are key websites and references used for evaluating and comparing large la
 
 ### Projects
 
-* [StableLM](https://github.com/Stability-AI/StableLM) ⭐ 15,680 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2024-04-08 - Maintained by Stability AI / 2023
+* [StableLM](https://github.com/Stability-AI/StableLM) ⭐ 15,679 | 🐛 27 | 🌐 Jupyter Notebook | 📅 2024-04-08 - Maintained by Stability AI / 2023
 * [BigScience](https://bigscience.huggingface.co/) - Maintained by HuggingFace ([Twitter](https://twitter.com/BigScienceLLM)) ([Notion](https://bigscience.notion.site/BLOOM-BigScience-176B-Model-ad073ca07cdf479398d5f95d88e218c4))
 * [HuggingChat](https://www.producthunt.com/posts/hugging-chat) - Maintained by HuggingFace / 2023
 * [OpenAssistant](https://open-assistant.io/) - Maintained by Open Assistant / 2023
@@ -260,18 +260,18 @@ Below are key websites and references used for evaluating and comparing large la
 
 ### GitHub repositories
 
-* [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 187,244 | 🐛 586 | 🌐 Python | 📅 2026-09-10 - ![Repo stars of Significant-Gravitas/Auto-GPT](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=social) - An experimental open-source attempt to make GPT-4 fully autonomous.
+* [AutoGPT](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 187,269 | 🐛 578 | 🌐 Python | 📅 2026-09-11 - ![Repo stars of Significant-Gravitas/Auto-GPT](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=social) - An experimental open-source attempt to make GPT-4 fully autonomous.
 * [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) ⭐ 92,000 | 🐛 33 | 📅 2025-06-27 - ![Repo stars of deepseek-ai/DeepSeek-R1](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-R1.svg?style=social) - A first-generation reasoning model from DeepSeek-AI.
-* [Embedchain](https://github.com/embedchain/embedchain) ⭐ 65,071 | 🐛 742 | 🌐 Python | 📅 2026-09-10 - ![Repo stars of embedchain/embedchain](https://img.shields.io/github/stars/embedchain/embedchain.svg?style=social) - Framework to create ChatGPT like bots over your dataset.
-* [llama\_index](https://github.com/jerryjliu/llama_index) ⭐ 52,118 | 🐛 746 | 🌐 Python | 📅 2026-09-10 - ![Repo stars of jerryjliu/llama\_index](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social) - A project that provides a central interface to connect your LLM's with external data.
-* [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) ⭐ 30,242 | 🐛 186 | 🌐 Python | 📅 2024-07-17 - ![Repo stars of tatsu-lab/stanford\_alpaca](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca?style=social) - A repository of Stanford Alpaca project,  a model fine-tuned from the LLaMA 7B model on 52K instruction-following demonstrations.
-* [openai/evals](https://github.com/openai/evals) ⭐ 19,425 | 🐛 337 | 🌐 Python | 📅 2026-04-14 - ![Repo stars of openai/evals](https://img.shields.io/github/stars/openai/evals?style=social) - A curated list of reinforcement learning with human feedback resources.
-* [alpaca-lora](https://github.com/tloen/alpaca-lora) ⭐ 18,908 | 🐛 365 | 🌐 Jupyter Notebook | 📅 2024-07-29 - ![Repo stars of tloen/alpaca-lora](https://img.shields.io/github/stars/tloen/alpaca-lora?style=social) - Instruct-tune LLaMA on consumer hardware.
+* [Embedchain](https://github.com/embedchain/embedchain) ⭐ 65,135 | 🐛 735 | 🌐 Python | 📅 2026-09-11 - ![Repo stars of embedchain/embedchain](https://img.shields.io/github/stars/embedchain/embedchain.svg?style=social) - Framework to create ChatGPT like bots over your dataset.
+* [llama\_index](https://github.com/jerryjliu/llama_index) ⭐ 52,129 | 🐛 747 | 🌐 Python | 📅 2026-09-11 - ![Repo stars of jerryjliu/llama\_index](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social) - A project that provides a central interface to connect your LLM's with external data.
+* [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) ⭐ 30,243 | 🐛 186 | 🌐 Python | 📅 2024-07-17 - ![Repo stars of tatsu-lab/stanford\_alpaca](https://img.shields.io/github/stars/tatsu-lab/stanford_alpaca?style=social) - A repository of Stanford Alpaca project,  a model fine-tuned from the LLaMA 7B model on 52K instruction-following demonstrations.
+* [openai/evals](https://github.com/openai/evals) ⭐ 19,436 | 🐛 337 | 🌐 Python | 📅 2026-04-14 - ![Repo stars of openai/evals](https://img.shields.io/github/stars/openai/evals?style=social) - A curated list of reinforcement learning with human feedback resources.
+* [alpaca-lora](https://github.com/tloen/alpaca-lora) ⭐ 18,909 | 🐛 365 | 🌐 Jupyter Notebook | 📅 2024-07-29 - ![Repo stars of tloen/alpaca-lora](https://img.shields.io/github/stars/tloen/alpaca-lora?style=social) - Instruct-tune LLaMA on consumer hardware.
 * [dalai](https://github.com/cocktailpeanut/dalai) ⭐ 12,895 | 🐛 333 | 🌐 CSS | 📅 2024-06-18 - ![Repo stars of cocktailpeanut/dalai](https://img.shields.io/github/stars/cocktailpeanut/dalai?style=social) - The cli tool to run LLaMA on the local machine.
-* [Dolly](https://github.com/databrickslabs/dolly) ⭐ 10,805 | 🐛 5 | 🌐 Python | 📅 2023-06-30 - ![Repo stars of databrickslabs/dolly](https://img.shields.io/github/stars/databrickslabs/dolly?style=social) - A large language model trained on the Databricks Machine Learning Platform.
-* [google-deepmind/gemma](https://github.com/google-deepmind/gemma) ⭐ 5,720 | 🐛 329 | 🌐 Python | 📅 2026-09-03 - ![Repo stars of google-deepmind/gemma](https://img.shields.io/github/stars/google-deepmind/gemma.svg?style=social) - Open weights LLM from Google DeepMind.
+* [Dolly](https://github.com/databrickslabs/dolly) ⭐ 10,808 | 🐛 5 | 🌐 Python | 📅 2023-06-30 - ![Repo stars of databrickslabs/dolly](https://img.shields.io/github/stars/databrickslabs/dolly?style=social) - A large language model trained on the Databricks Machine Learning Platform.
+* [google-deepmind/gemma](https://github.com/google-deepmind/gemma) ⭐ 5,721 | 🐛 329 | 🌐 Python | 📅 2026-09-03 - ![Repo stars of google-deepmind/gemma](https://img.shields.io/github/stars/google-deepmind/gemma.svg?style=social) - Open weights LLM from Google DeepMind.
 * [trlx](https://github.com/CarperAI/trlx) ⭐ 4,753 | 🐛 102 | 🌐 Python | 📅 2024-01-08 - ![Repo stars of promptslab/Promptify](https://img.shields.io/github/stars/CarperAI/trlx?style=social) - A repo for distributed training of language models with Reinforcement Learning via Human Feedback. (RLHF)
-* [pythia](https://github.com/EleutherAI/pythia) ⭐ 2,924 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2025-11-15 - ![Repo stars of EleutherAI/pythia](https://img.shields.io/github/stars/EleutherAI/pythia?style=social) - A suite of 16 LLMs all trained on public data seen in the exact same order and ranging in size from 70M to 12B parameters.
+* [pythia](https://github.com/EleutherAI/pythia) ⭐ 2,927 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2025-11-15 - ![Repo stars of EleutherAI/pythia](https://img.shields.io/github/stars/EleutherAI/pythia?style=social) - A suite of 16 LLMs all trained on public data seen in the exact same order and ranging in size from 70M to 12B parameters.
 * [LLaMA-Adapter](https://github.com/ZrrSkywalker/LLaMA-Adapter) ⭐ 92 | 🐛 1 | 📅 2023-06-14 - ![Repo stars of ZrrSkywalker/LLaMA-Adapter](https://img.shields.io/github/stars/ZrrSkywalker/LLaMA-Adapter?style=social) - Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters.
 
 [:arrow\_up: Go to top](#top)
@@ -319,4 +319,4 @@ We appreciate your contributions and thank you for helping to make the Awesome L
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

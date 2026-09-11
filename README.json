@@ -49,7 +49,7 @@
                 "open_issues": 261,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 33986,
+                "stars": 33985,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
@@ -116,7 +116,7 @@
                 "open_issues": 27,
                 "owner": "Stability-AI",
                 "repo": "StableLM",
-                "stars": 15680,
+                "stars": 15679,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
@@ -140,11 +140,11 @@
                 "id": 614765452,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T19:32:46Z",
-                "open_issues": 586,
+                "last_commit": "2026-09-11T19:54:21Z",
+                "open_issues": 578,
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 187244,
+                "stars": 187269,
                 "topics": [
                   "agentic-ai",
                   "agents",
@@ -194,11 +194,11 @@
                 "id": 656099147,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T16:12:31Z",
-                "open_issues": 742,
+                "last_commit": "2026-09-11T15:36:33Z",
+                "open_issues": 735,
                 "owner": "mem0ai",
                 "repo": "mem0",
-                "stars": 65071,
+                "stars": 65135,
                 "topics": [
                   "agentic-memory",
                   "agentic-memory-system",
@@ -225,16 +225,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "LlamaIndex is the leading document agent and OCR platform",
+                "description": "LlamaIndex is the document processing platform for AI",
                 "homepage": "https://developers.llamaindex.ai",
                 "id": 560704231,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-10T04:02:24Z",
-                "open_issues": 746,
+                "last_commit": "2026-09-11T18:09:01Z",
+                "open_issues": 747,
                 "owner": "run-llama",
                 "repo": "llama_index",
-                "stars": 52118,
+                "stars": 52129,
                 "topics": [
                   "agents",
                   "application",
@@ -266,7 +266,7 @@
                 "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30242,
+                "stars": 30243,
                 "topics": [
                   "deep-learning",
                   "instruction-following",
@@ -291,7 +291,7 @@
                 "open_issues": 337,
                 "owner": "openai",
                 "repo": "evals",
-                "stars": 19425,
+                "stars": 19436,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
@@ -312,7 +312,7 @@
                 "open_issues": 365,
                 "owner": "tloen",
                 "repo": "alpaca-lora",
-                "stars": 18908,
+                "stars": 18909,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
@@ -358,7 +358,7 @@
                 "open_issues": 5,
                 "owner": "databrickslabs",
                 "repo": "dolly",
-                "stars": 10805,
+                "stars": 10808,
                 "topics": [
                   "chatbot",
                   "databricks",
@@ -384,7 +384,7 @@
                 "open_issues": 329,
                 "owner": "google-deepmind",
                 "repo": "gemma",
-                "stars": 5720,
+                "stars": 5721,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
@@ -430,7 +430,7 @@
                 "open_issues": 26,
                 "owner": "EleutherAI",
                 "repo": "pythia",
-                "stars": 2924,
+                "stars": 2927,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:05:10.329Z"
@@ -466,7 +466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T19:55:51.550Z",
+    "last_updated": "2026-09-11T19:55:19.415Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome series for Large Language Model(LLM)s",
